@@ -1,28 +1,40 @@
-# Near-Class: 블록체인 기술을 활용한 탈중앙화 커뮤니티 어플리케이션
+# Near-Class: Decentralized Community Application Utilizing Blockchain Technology
 
-## 요약
-Near-Class는 블록체인 기술을 활용하여 익명 커뮤니티 환경에서 발생할 수 있는 보안 사고에 대응하는 데 초점을 맞춘 DApp입니다. 스터디나 공모전 참여자를 익명 커뮤니티에서 찾는 과정에서 발생할 수 있는 문제를 해결하고, 사용자 정보를 블록체인에 안전하게 저장하여 투명하고 안전한 환경을 제공합니다.
+## Summary
+Near-Class is a DApp (Distributed Application) focusing on addressing security incidents that may occur in anonymous community environments by leveraging blockchain technology. It aims to resolve issues that may arise when searching for study or contest participants within an anonymous community, while providing transparent and secure management of user information stored on the blockchain.
 
-## 기능
+## Features
 ![image](https://github.com/hyunnna/nearclass/assets/62924325/4fd0fb9f-8ded-420c-a86f-4b135566a9d0)
 
-- 사용자 스터디 이용 기록과 내용을 블록에 저장하여 모든 사용자가 열람 가능하도록 함
-- 익명성을 강조한 커뮤니티 환경에서도 투명한 정보관리 제공
-- 블록에 저장된 이전 스터디에서의 역할과 결과물을 블록체인의 특성을 활용하여 보안성 강화
-- 커리어 플랫폼으로 사용 영역을 확장할 수 있는 가능성 제시
+- Records and content of user study activities stored in blocks for public access
+- Transparent information management even in an environment emphasizing anonymity
+- Enhancing security by leveraging blockchain characteristics to store roles and outcomes of previous studies
+- Potential expansion of usage areas as a career platform
 
-## 사용법
-1. 프로젝트를 클론합니다.
-2. 필요한 환경 설정을 수행합니다.
-3. 어플리케이션을 실행합니다.
+# Development Environment
+- Ethereum
+- Web3.js
+- Solidity
+- MySQL
+- Node.js
+- React, JavaScript
+- Metamask
 
-## 기여 방법
-1. Fork하여 프로젝트를 개선합니다.
-2. 변경 사항을 커밋하고 푸시합니다.
-3. Pull Request를 생성합니다.
+# DApp Development Environment Setup
 
-## 라이선스
-MIT 라이선스를 따릅니다.
+This repository contains the source code for a decentralized application (DApp) developed using Truffle, React, Solidity, Metamask, and Web3.js.
 
-## 저자
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed
+- Truffle installed globally (`npm install -g truffle`)
+- Metamask extension installed in your web browser
+- Git installed
+
+## License
+This project is licensed under the MIT License.
+
+## Author
 hyunnna - wjdgusghk904@naver.com
